@@ -1,4 +1,6 @@
-Objective
+# Capstone Project
+
+Generate python source code from english descriptions
 ---
 
 
@@ -12,8 +14,9 @@ Following steps are taken to clean the given dataset:
 
 
 **2. Model Architecture**  
-Similar transformer and attention model was used as it was in the class.  
+Similar transformer and attention model is used which was covered in the sessions.  
 The only difference is the use of pre-trained code embeddings.
+![Arch](https://miro.medium.com/max/2880/1*BHzGVskWGS_3jEcYYi6miQ.png)
 
 
 **3. Loss function Strategy**  
@@ -30,11 +33,11 @@ None
 
 
 **6. Embedding Strategy**  
-Python code embedding is fine-tuned using the given dataset with the help of the Gensim library
+Python code embedding is fine-tuned on the given dataset with the help of the Gensim library
 
 
 **7. Evaluation Metrics**  
-
+Similar as covered in the sessions.
 
 **8. Outputs**  
 Example: 1
