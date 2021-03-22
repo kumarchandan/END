@@ -16,7 +16,7 @@ Following steps are taken to clean the given dataset:
 **2. Model Architecture**  
 Similar transformer and attention model is used which was covered in the sessions.  
 The only difference is the use of pre-trained code embeddings.
-![Arch](https://miro.medium.com/max/906/1*FDVDbERvzb3ZsgZlzh_KSw.png)
+![Arch](transformer.png)
 
 
 **3. Loss function Strategy**  
