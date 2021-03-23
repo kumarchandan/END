@@ -251,7 +251,7 @@ Example: 21
 input_text = 'Write a python program to flatten  a multidimensional list'
 ---
 mylist = [ 1 , 2 , 3 , 4 , 5 ] 
- mylist = [ i for i in mylist if i ] 
+mylist = [ i for i in mylist if i ] 
 ```
 Example: 22
 ```python
